@@ -76,9 +76,9 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 120px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
+  background-color: #92cb97;
   position :fixed;
   top: 0;
   z-index: 10;
